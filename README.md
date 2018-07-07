@@ -4,6 +4,7 @@
 ```
 $ git@github.com:Xigtun/react-native-chart-demo.git
 $ cd react-native-chart-demo
+$ yarn install
 $ yarn run ios
 
 ```
