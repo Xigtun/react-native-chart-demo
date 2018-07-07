@@ -1,7 +1,12 @@
 # react-native 使用 ART 制作图表
 # react-native Draw chart use ART
 
+```
+$ git@github.com:Xigtun/react-native-chart-demo.git
+$ cd react-native-chart-demo
+$ yarn run ios
 
+```
 先看效果图
 ![阶梯图表](media/%E9%98%B6%E6%A2%AF%E5%9B%BE%E8%A1%A8.png)![阶梯图表2](media/%E9%98%B6%E6%A2%AF%E5%9B%BE%E8%A1%A82.png)
 
